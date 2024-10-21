@@ -65,7 +65,8 @@ In addition to the basic requirements, the following enhancements were made to t
 1. Clone the Repository:
    ```
 
-   git clone https://github.com/yourusername/rule-engine-api.git cd rule-engine-api
+   git clone https://github.com/yourusername/rule-engine-api.git
+   cd rule-engine-api
 
 
    ```
